@@ -12,4 +12,4 @@ Depending on what you want to store in the variable, you have to define it diffe
 https://www.w3schools.com/java/java_data_types.asp
 
 ## What I learned?
-Once a variable is declared with a type, it cannot change to another type later in the program
+Pimitive Data Type:Once a variable is declared with a type, it cannot change to another type later in the program
